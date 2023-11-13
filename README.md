@@ -1,1 +1,1 @@
-# online-retail-application-database
+# Online Retail Application Database
